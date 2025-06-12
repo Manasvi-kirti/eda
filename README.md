@@ -34,7 +34,7 @@ This folder contains various **Exploratory Data Analysis (EDA)** notebooks for d
 ## ✅ How to Use
 
 1. Clone the repository or download individual notebooks.
-2. Download CSV file from data as per your requirement.
+2. Download CSV files from data as per your requirement.
 3. Open the `.ipynb` files in Jupyter Notebook or Google Colab.
 4. Run all cells to view the analysis and visualizations.
 

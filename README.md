@@ -7,6 +7,7 @@ This folder contains various **Exploratory Data Analysis (EDA)** notebooks for d
 ## 📁 Notebooks Included
 
 - `Airbnb_EDA.ipynb` – EDA on Airbnb listing dataset
+- `apple_sales_2024.ipynb` -EDA on Apple sales 2024
 - *(More notebooks will be added soon...)*
 
 ---
@@ -33,8 +34,9 @@ This folder contains various **Exploratory Data Analysis (EDA)** notebooks for d
 ## ✅ How to Use
 
 1. Clone the repository or download individual notebooks.
-2. Open the `.ipynb` files in Jupyter Notebook or Google Colab.
-3. Run all cells to view the analysis and visualizations.
+2. Download CSV file from data as per your requirement.
+3. Open the `.ipynb` files in Jupyter Notebook or Google Colab.
+4. Run all cells to view the analysis and visualizations.
 
 ---
 

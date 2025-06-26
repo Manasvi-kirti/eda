@@ -1,0 +1,21 @@
+# Ignore dataset files inside data folder
+data/*.csv
+data/*.xlsx
+
+# Ignore Jupyter Notebook checkpoints anywhere
+**/.ipynb_checkpoints/
+
+# Ignore Python compiled files
+**/__pycache__/
+**/*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore IDE settings
+.vscode/
+.idea/
+

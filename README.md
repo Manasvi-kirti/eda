@@ -7,7 +7,8 @@ This folder contains various **Exploratory Data Analysis (EDA)** notebooks for d
 ## 📁 Notebooks Included
 
 - `Airbnb_EDA.ipynb` – EDA on Airbnb listing dataset
-- `apple_sales_2024.ipynb` -EDA on Apple sales 2024
+- `apple_sales_2024.ipynb` - EDA on Apple sales 2024
+- `ChurnModelling_EDA.ipynb` - EDA on Churn Modelling dataset 
 - *(More notebooks will be added soon...)*
 
 ---
